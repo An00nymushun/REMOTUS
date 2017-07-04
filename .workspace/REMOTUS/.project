@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>REMOTUS</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src0</name>
+			<type>2</type>
+			<location>C:/Users/An0/Desktop/Git/REMOTUS/app/src/main/java</location>
+		</link>
+		<link>
+			<name>src1</name>
+			<type>2</type>
+			<location>C:/Users/An0/Desktop/Git/REMOTUS/app/build/generated/source/r/x86/debug</location>
+		</link>
+	</linkedResources>
+</projectDescription>

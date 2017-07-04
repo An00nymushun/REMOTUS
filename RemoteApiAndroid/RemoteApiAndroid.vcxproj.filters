@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="RemoteApiAndroid.cpp" />
+    <ClCompile Include="Shellcode.cpp" />
+    <ClCompile Include="Tools.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RemoteApiAndroid.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="List.h" />
+    <ClInclude Include="Shellcode.h" />
+    <ClInclude Include="Tools.h" />
+  </ItemGroup>
+</Project>
